@@ -1,0 +1,7 @@
+nome = input("digite o seu nome:")
+idade = int (input("Digite a sua idade aqui:"))
+peso = float (input("Digite o seu peso aqui:"))
+
+print (nome)
+print (type(idade))
+print (type(peso))
